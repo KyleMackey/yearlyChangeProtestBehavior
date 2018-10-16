@@ -25,27 +25,15 @@ library(RCurl)
 ## 
 ##  Custom ggplot2 theme
 ##
-theme_set(theme_classic())
-custom <- theme_update(rect = element_rect(fill = "gray90"),
-                       panel.background = element_rect(fill = "gray90"),
-                       axis.line = element_blank(),
-                       axis.line.x = element_blank(),
-                       axis.text.x = element_text(colour = "black", 
+theme_set(theme_minimal())
+custom <- theme_update(axis.text.x = element_text(colour = "black", 
                                                   size = 20),
                        axis.text.y = element_text(colour = "black", 
                                                   size = 20),
                        axis.title.x = element_text(size = 20),
                        axis.title.y = element_text(size = 20, 
                                                    angle = 90),
-                       axis.ticks = element_blank(),
-                       title = element_text(size = 20),
-                       panel.grid = element_line(colour = NULL, 
-                                                 linetype = 1), 
-                       panel.grid.major = element_line(colour = "white", 
-                                                       linetype = 1, 
-                                                       size = 1.5),		
-                       panel.grid.major.x = element_blank(),	
-                       panel.grid.minor = element_blank()
+                       title = element_text(size = 20)
 )  
 
 ##
