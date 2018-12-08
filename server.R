@@ -89,7 +89,7 @@ yrCh <- ggplot(temp1, aes(x = year, y = protestnumberchange)) +
                  position ="identity", 
                  aes(fill = yearlyChange)) +
         geom_hline(yintercept = 0, lwd = 1) +
-        scale_x_discrete(limits = seq(1991, 2014, 2)) +
+        scale_x_discrete(limits = seq(1991, 2017, 2)) +
         scale_fill_manual(values = c(decrease = "#990000", 
                                      increase = "#0099FF")) +
         ggtitle(" ") + 
