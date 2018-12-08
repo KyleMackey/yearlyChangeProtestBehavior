@@ -51,7 +51,7 @@ mm <- read.csv(textConnection(gitHubData), header = TRUE)
 ##  whether the yearly change was positive
 ##  or negative
 ##
-yearlyChange <- ifelse(mm$protestnumberchange < 0, 
+yearlyChange <- ifelse(mm$protestNumberChange < 0, 
                           "decrease", "increase")
 
 temp <- data.frame(mm, yearlyChange)
@@ -80,7 +80,7 @@ temp1 <- subset(temp, temp$country == input$country)
 ##  Plot a bar plot of yearly protests for the 
 ##  user-selected country
 ##
-yrCh <- ggplot(temp1, aes(x = year, y = protestnumberchange)) +
+yrCh <- ggplot(temp1, aes(x = year, y = protestNumberChange)) +
         geom_smooth(size = 10, 
                     se = FALSE, 
                     span = 0.5, 

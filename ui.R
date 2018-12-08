@@ -35,7 +35,7 @@ mm <- read.csv(textConnection(gitHubData), header = TRUE)
 ##  whether the yearly change was positive
 ##  or negative
 ##
-yearlyChange <- ifelse(mm$protestnumberchange < 0, 
+yearlyChange <- ifelse(mm$protestNumberChange < 0, 
                        "decrease", "increase")
 
 temp <- data.frame(mm, yearlyChange)
