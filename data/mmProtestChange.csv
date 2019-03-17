@@ -26,7 +26,8 @@ country,year,protestnumber,protestNumberChange
 "Afghanistan",2014,6,5
 "Afghanistan",2015,5,-1
 "Afghanistan",2016,4,-1
-"Afghanistan",2017,0,-4
+"Afghanistan",2017,3,-1
+"Afghanistan",2018,2,-1
 "Albania",1990,5,
 "Albania",1991,8,3
 "Albania",1992,3,-5
@@ -54,7 +55,8 @@ country,year,protestnumber,protestNumberChange
 "Albania",2014,0,-3
 "Albania",2015,0,0
 "Albania",2016,0,0
-"Albania",2017,0,0
+"Albania",2017,2,2
+"Albania",2018,0,-2
 "Algeria",1990,2,
 "Algeria",1991,2,0
 "Algeria",1992,6,4
@@ -82,7 +84,8 @@ country,year,protestnumber,protestNumberChange
 "Algeria",2014,11,9
 "Algeria",2015,3,-8
 "Algeria",2016,0,-3
-"Algeria",2017,0,0
+"Algeria",2017,2,2
+"Algeria",2018,0,-2
 "Angola",1990,0,
 "Angola",1991,1,1
 "Angola",1992,0,-1
@@ -111,6 +114,7 @@ country,year,protestnumber,protestNumberChange
 "Angola",2015,3,3
 "Angola",2016,1,-2
 "Angola",2017,1,0
+"Angola",2018,0,-1
 "Argentina",1990,8,
 "Argentina",1991,2,-6
 "Argentina",1992,2,0
@@ -138,7 +142,8 @@ country,year,protestnumber,protestNumberChange
 "Argentina",2014,0,-2
 "Argentina",2015,5,5
 "Argentina",2016,1,-4
-"Argentina",2017,1,0
+"Argentina",2017,7,6
+"Argentina",2018,0,-7
 "Armenia",1990,1,
 "Armenia",1991,1,0
 "Armenia",1992,1,0
@@ -167,6 +172,7 @@ country,year,protestnumber,protestNumberChange
 "Armenia",2015,6,6
 "Armenia",2016,4,-2
 "Armenia",2017,0,-4
+"Armenia",2018,0,0
 "Austria",1990,1,
 "Austria",1991,0,-1
 "Austria",1992,0,0
@@ -220,6 +226,7 @@ country,year,protestnumber,protestNumberChange
 "Azerbaijan",2015,0,0
 "Azerbaijan",2016,2,2
 "Azerbaijan",2017,0,-2
+"Azerbaijan",2018,0,0
 "Bahrain",1990,0,
 "Bahrain",1991,0,0
 "Bahrain",1992,0,0
@@ -248,6 +255,7 @@ country,year,protestnumber,protestNumberChange
 "Bahrain",2015,2,-6
 "Bahrain",2016,1,-1
 "Bahrain",2017,2,1
+"Bahrain",2018,0,-2
 "Bangladesh",1990,10,
 "Bangladesh",1991,0,-10
 "Bangladesh",1992,6,6
@@ -275,7 +283,8 @@ country,year,protestnumber,protestNumberChange
 "Bangladesh",2014,59,46
 "Bangladesh",2015,8,-51
 "Bangladesh",2016,0,-8
-"Bangladesh",2017,1,1
+"Bangladesh",2017,3,3
+"Bangladesh",2018,1,-2
 "Belarus",1991,0,
 "Belarus",1992,0,0
 "Belarus",1993,0,0
@@ -302,7 +311,8 @@ country,year,protestnumber,protestNumberChange
 "Belarus",2014,0,0
 "Belarus",2015,0,0
 "Belarus",2016,0,0
-"Belarus",2017,6,6
+"Belarus",2017,7,7
+"Belarus",2018,2,-5
 "Belgium",1990,0,
 "Belgium",1991,0,0
 "Belgium",1992,0,0
@@ -331,6 +341,7 @@ country,year,protestnumber,protestNumberChange
 "Belgium",2015,1,-1
 "Belgium",2016,5,4
 "Belgium",2017,0,-5
+"Belgium",2018,1,1
 "Benin",1990,1,
 "Benin",1991,0,-1
 "Benin",1992,0,0
@@ -359,6 +370,7 @@ country,year,protestnumber,protestNumberChange
 "Benin",2015,0,-2
 "Benin",2016,2,2
 "Benin",2017,1,-1
+"Benin",2018,0,-1
 "Bhutan",1990,1,
 "Bhutan",1991,0,-1
 "Bhutan",1992,0,0
@@ -387,6 +399,7 @@ country,year,protestnumber,protestNumberChange
 "Bhutan",2015,0,0
 "Bhutan",2016,0,0
 "Bhutan",2017,0,0
+"Bhutan",2018,0,0
 "Bolivia",1990,3,
 "Bolivia",1991,5,2
 "Bolivia",1992,11,6
@@ -414,7 +427,8 @@ country,year,protestnumber,protestNumberChange
 "Bolivia",2014,3,2
 "Bolivia",2015,7,4
 "Bolivia",2016,3,-4
-"Bolivia",2017,0,-3
+"Bolivia",2017,2,-1
+"Bolivia",2018,0,-2
 "Bosnia",1992,2,
 "Bosnia",1993,0,-2
 "Bosnia",1994,1,1
@@ -441,6 +455,7 @@ country,year,protestnumber,protestNumberChange
 "Bosnia",2015,1,-4
 "Bosnia",2016,0,-1
 "Bosnia",2017,0,0
+"Bosnia",2018,0,0
 "Botswana",1990,0,
 "Botswana",1991,2,2
 "Botswana",1992,0,-2
@@ -469,6 +484,7 @@ country,year,protestnumber,protestNumberChange
 "Botswana",2015,0,0
 "Botswana",2016,0,0
 "Botswana",2017,0,0
+"Botswana",2018,0,0
 "Brazil",1990,5,
 "Brazil",1991,7,2
 "Brazil",1992,4,-3
@@ -496,7 +512,8 @@ country,year,protestnumber,protestNumberChange
 "Brazil",2014,9,-14
 "Brazil",2015,23,14
 "Brazil",2016,23,0
-"Brazil",2017,2,-21
+"Brazil",2017,8,-15
+"Brazil",2018,1,-7
 "Bulgaria",1990,35,
 "Bulgaria",1991,5,-30
 "Bulgaria",1992,2,-3
@@ -525,6 +542,7 @@ country,year,protestnumber,protestNumberChange
 "Bulgaria",2015,0,-2
 "Bulgaria",2016,1,1
 "Bulgaria",2017,0,-1
+"Bulgaria",2018,2,2
 "Burkina Faso",1990,0,
 "Burkina Faso",1991,2,2
 "Burkina Faso",1992,0,-2
@@ -553,6 +571,7 @@ country,year,protestnumber,protestNumberChange
 "Burkina Faso",2015,5,2
 "Burkina Faso",2016,0,-5
 "Burkina Faso",2017,0,0
+"Burkina Faso",2018,0,0
 "Burundi",1990,0,
 "Burundi",1991,0,0
 "Burundi",1992,0,0
@@ -581,6 +600,7 @@ country,year,protestnumber,protestNumberChange
 "Burundi",2015,42,40
 "Burundi",2016,1,-41
 "Burundi",2017,0,-1
+"Burundi",2018,0,0
 "Cambodia",1990,0,
 "Cambodia",1991,3,3
 "Cambodia",1992,0,-3
@@ -609,6 +629,7 @@ country,year,protestnumber,protestNumberChange
 "Cambodia",2015,5,-3
 "Cambodia",2016,3,-2
 "Cambodia",2017,1,-2
+"Cambodia",2018,0,-1
 "Cameroon",1990,2,
 "Cameroon",1991,13,11
 "Cameroon",1992,2,-11
@@ -636,7 +657,8 @@ country,year,protestnumber,protestNumberChange
 "Cameroon",2014,0,0
 "Cameroon",2015,0,0
 "Cameroon",2016,6,6
-"Cameroon",2017,0,-6
+"Cameroon",2017,2,-4
+"Cameroon",2018,0,-2
 "Canada",1990,6,
 "Canada",1991,2,-4
 "Canada",1992,1,-1
@@ -664,7 +686,8 @@ country,year,protestnumber,protestNumberChange
 "Canada",2014,0,0
 "Canada",2015,1,1
 "Canada",2016,10,9
-"Canada",2017,0,-10
+"Canada",2017,1,-9
+"Canada",2018,2,1
 "Cape Verde",1990,0,
 "Cape Verde",1991,0,0
 "Cape Verde",1992,0,0
@@ -693,6 +716,7 @@ country,year,protestnumber,protestNumberChange
 "Cape Verde",2015,0,0
 "Cape Verde",2016,0,0
 "Cape Verde",2017,0,0
+"Cape Verde",2018,0,0
 "Central African Republic",1990,1,
 "Central African Republic",1991,3,2
 "Central African Republic",1992,2,-1
@@ -721,6 +745,7 @@ country,year,protestnumber,protestNumberChange
 "Central African Republic",2015,3,2
 "Central African Republic",2016,0,-3
 "Central African Republic",2017,0,0
+"Central African Republic",2018,0,0
 "Chad",1990,0,
 "Chad",1991,1,1
 "Chad",1992,2,1
@@ -749,6 +774,7 @@ country,year,protestnumber,protestNumberChange
 "Chad",2015,1,1
 "Chad",2016,6,5
 "Chad",2017,0,-6
+"Chad",2018,0,0
 "Chile",1990,2,
 "Chile",1991,5,3
 "Chile",1992,5,0
@@ -776,7 +802,8 @@ country,year,protestnumber,protestNumberChange
 "Chile",2014,1,-1
 "Chile",2015,1,0
 "Chile",2016,6,5
-"Chile",2017,0,-6
+"Chile",2017,3,-3
+"Chile",2018,0,-3
 "China",1990,3,
 "China",1991,2,-1
 "China",1992,1,-1
@@ -804,7 +831,8 @@ country,year,protestnumber,protestNumberChange
 "China",2014,36,26
 "China",2015,13,-23
 "China",2016,25,12
-"China",2017,2,-23
+"China",2017,10,-15
+"China",2018,1,-9
 "Colombia",1990,6,
 "Colombia",1991,5,-1
 "Colombia",1992,5,0
@@ -832,7 +860,8 @@ country,year,protestnumber,protestNumberChange
 "Colombia",2014,3,-1
 "Colombia",2015,0,-3
 "Colombia",2016,1,1
-"Colombia",2017,1,0
+"Colombia",2017,3,2
+"Colombia",2018,1,-2
 "Comoros",1990,2,
 "Comoros",1991,0,-2
 "Comoros",1992,0,0
@@ -861,6 +890,7 @@ country,year,protestnumber,protestNumberChange
 "Comoros",2015,0,0
 "Comoros",2016,1,1
 "Comoros",2017,0,-1
+"Comoros",2018,0,0
 "Congo Brazzaville",1990,0,
 "Congo Brazzaville",1991,1,1
 "Congo Brazzaville",1992,6,5
@@ -889,6 +919,7 @@ country,year,protestnumber,protestNumberChange
 "Congo Brazzaville",2015,5,5
 "Congo Brazzaville",2016,2,-3
 "Congo Brazzaville",2017,0,-2
+"Congo Brazzaville",2018,0,0
 "Congo Kinshasa",1990,1,
 "Congo Kinshasa",1991,4,3
 "Congo Kinshasa",1992,6,2
@@ -916,7 +947,8 @@ country,year,protestnumber,protestNumberChange
 "Congo Kinshasa",2014,0,-1
 "Congo Kinshasa",2015,1,1
 "Congo Kinshasa",2016,4,3
-"Congo Kinshasa",2017,0,-4
+"Congo Kinshasa",2017,2,-2
+"Congo Kinshasa",2018,2,0
 "Costa Rica",1990,0,
 "Costa Rica",1991,3,3
 "Costa Rica",1992,0,-3
@@ -945,6 +977,7 @@ country,year,protestnumber,protestNumberChange
 "Costa Rica",2015,0,0
 "Costa Rica",2016,1,1
 "Costa Rica",2017,0,-1
+"Costa Rica",2018,0,0
 "Croatia",1991,0,
 "Croatia",1992,0,0
 "Croatia",1993,0,0
@@ -971,7 +1004,8 @@ country,year,protestnumber,protestNumberChange
 "Croatia",2014,0,-2
 "Croatia",2015,0,0
 "Croatia",2016,0,0
-"Croatia",2017,0,0
+"Croatia",2017,1,1
+"Croatia",2018,0,-1
 "Cuba",1990,0,
 "Cuba",1991,0,0
 "Cuba",1992,0,0
@@ -1000,6 +1034,7 @@ country,year,protestnumber,protestNumberChange
 "Cuba",2015,37,35
 "Cuba",2016,53,16
 "Cuba",2017,2,-51
+"Cuba",2018,0,-2
 "Cyprus",1990,1,
 "Cyprus",1991,0,-1
 "Cyprus",1992,0,0
@@ -1028,6 +1063,7 @@ country,year,protestnumber,protestNumberChange
 "Cyprus",2015,0,-15
 "Cyprus",2016,0,0
 "Cyprus",2017,0,0
+"Cyprus",2018,0,0
 "Czech Republic",1993,0,
 "Czech Republic",1994,1,1
 "Czech Republic",1995,2,1
@@ -1052,7 +1088,8 @@ country,year,protestnumber,protestNumberChange
 "Czech Republic",2014,1,1
 "Czech Republic",2015,6,5
 "Czech Republic",2016,0,-6
-"Czech Republic",2017,0,0
+"Czech Republic",2017,2,2
+"Czech Republic",2018,2,0
 "Czechoslovakia",1990,4,
 "Czechoslovakia",1991,0,-4
 "Czechoslovakia",1992,0,0
@@ -1084,6 +1121,7 @@ country,year,protestnumber,protestNumberChange
 "Denmark",2015,0,-1
 "Denmark",2016,0,0
 "Denmark",2017,0,0
+"Denmark",2018,0,0
 "Djibouti",1990,0,
 "Djibouti",1991,0,0
 "Djibouti",1992,1,1
@@ -1112,6 +1150,7 @@ country,year,protestnumber,protestNumberChange
 "Djibouti",2015,0,0
 "Djibouti",2016,0,0
 "Djibouti",2017,0,0
+"Djibouti",2018,0,0
 "Dominican Republic",1990,4,
 "Dominican Republic",1991,3,-1
 "Dominican Republic",1992,1,-2
@@ -1139,7 +1178,8 @@ country,year,protestnumber,protestNumberChange
 "Dominican Republic",2014,0,0
 "Dominican Republic",2015,0,0
 "Dominican Republic",2016,0,0
-"Dominican Republic",2017,0,0
+"Dominican Republic",2017,24,24
+"Dominican Republic",2018,3,-21
 "Ecuador",1990,3,
 "Ecuador",1991,4,1
 "Ecuador",1992,4,0
@@ -1167,7 +1207,8 @@ country,year,protestnumber,protestNumberChange
 "Ecuador",2014,1,1
 "Ecuador",2015,6,5
 "Ecuador",2016,1,-5
-"Ecuador",2017,1,0
+"Ecuador",2017,2,1
+"Ecuador",2018,0,-2
 "Egypt",1990,2,
 "Egypt",1991,2,0
 "Egypt",1992,1,-1
@@ -1195,7 +1236,8 @@ country,year,protestnumber,protestNumberChange
 "Egypt",2014,18,-4
 "Egypt",2015,5,-13
 "Egypt",2016,6,1
-"Egypt",2017,1,-5
+"Egypt",2017,3,-3
+"Egypt",2018,0,-3
 "El Salvador",1990,0,
 "El Salvador",1991,1,1
 "El Salvador",1992,0,-1
@@ -1224,6 +1266,7 @@ country,year,protestnumber,protestNumberChange
 "El Salvador",2015,2,2
 "El Salvador",2016,1,-1
 "El Salvador",2017,0,-1
+"El Salvador",2018,0,0
 "Equatorial Guinea",1990,0,
 "Equatorial Guinea",1991,0,0
 "Equatorial Guinea",1992,1,1
@@ -1252,6 +1295,7 @@ country,year,protestnumber,protestNumberChange
 "Equatorial Guinea",2015,0,0
 "Equatorial Guinea",2016,0,0
 "Equatorial Guinea",2017,0,0
+"Equatorial Guinea",2018,0,0
 "Eritrea",1990,0,
 "Eritrea",1991,0,0
 "Eritrea",1992,0,0
@@ -1279,7 +1323,8 @@ country,year,protestnumber,protestNumberChange
 "Eritrea",2014,0,-1
 "Eritrea",2015,0,0
 "Eritrea",2016,0,0
-"Eritrea",2017,0,0
+"Eritrea",2017,1,1
+"Eritrea",2018,0,-1
 "Estonia",1991,0,
 "Estonia",1992,0,0
 "Estonia",1993,1,1
@@ -1307,6 +1352,7 @@ country,year,protestnumber,protestNumberChange
 "Estonia",2015,0,0
 "Estonia",2016,0,0
 "Estonia",2017,0,0
+"Estonia",2018,0,0
 "Ethiopia",1990,1,
 "Ethiopia",1991,1,0
 "Ethiopia",1992,1,0
@@ -1334,7 +1380,8 @@ country,year,protestnumber,protestNumberChange
 "Ethiopia",2014,2,1
 "Ethiopia",2015,4,2
 "Ethiopia",2016,4,0
-"Ethiopia",2017,0,-4
+"Ethiopia",2017,1,-3
+"Ethiopia",2018,2,1
 "Finland",1990,0,
 "Finland",1991,0,0
 "Finland",1992,1,1
@@ -1363,6 +1410,7 @@ country,year,protestnumber,protestNumberChange
 "Finland",2015,2,2
 "Finland",2016,4,2
 "Finland",2017,0,-4
+"Finland",2018,0,0
 "France",1990,27,
 "France",1991,24,-3
 "France",1992,35,11
@@ -1390,7 +1438,8 @@ country,year,protestnumber,protestNumberChange
 "France",2014,17,1
 "France",2015,14,-3
 "France",2016,49,35
-"France",2017,7,-42
+"France",2017,19,-30
+"France",2018,4,-15
 "Gabon",1990,6,
 "Gabon",1991,0,-6
 "Gabon",1992,1,1
@@ -1419,6 +1468,7 @@ country,year,protestnumber,protestNumberChange
 "Gabon",2015,1,0
 "Gabon",2016,2,1
 "Gabon",2017,0,-2
+"Gabon",2018,0,0
 "Gambia",1990,0,
 "Gambia",1991,1,1
 "Gambia",1992,0,-1
@@ -1446,7 +1496,8 @@ country,year,protestnumber,protestNumberChange
 "Gambia",2014,0,0
 "Gambia",2015,0,0
 "Gambia",2016,2,2
-"Gambia",2017,0,-2
+"Gambia",2017,7,5
+"Gambia",2018,0,-7
 "Georgia",1990,2,
 "Georgia",1991,5,3
 "Georgia",1992,6,1
@@ -1474,7 +1525,8 @@ country,year,protestnumber,protestNumberChange
 "Georgia",2014,3,1
 "Georgia",2015,0,-3
 "Georgia",2016,4,4
-"Georgia",2017,0,-4
+"Georgia",2017,1,-3
+"Georgia",2018,0,-1
 "Germany",1990,5,
 "Germany",1991,15,10
 "Germany",1992,9,-6
@@ -1502,7 +1554,8 @@ country,year,protestnumber,protestNumberChange
 "Germany",2014,15,10
 "Germany",2015,62,47
 "Germany",2016,48,-14
-"Germany",2017,1,-47
+"Germany",2017,46,-2
+"Germany",2018,11,-35
 "Germany East",1990,11,
 "Germany West",1990,2,
 "Ghana",1990,0,
@@ -1532,7 +1585,8 @@ country,year,protestnumber,protestNumberChange
 "Ghana",2014,3,-1
 "Ghana",2015,6,3
 "Ghana",2016,9,3
-"Ghana",2017,0,-9
+"Ghana",2017,1,-8
+"Ghana",2018,1,0
 "Greece",1990,7,
 "Greece",1991,5,-2
 "Greece",1992,6,1
@@ -1560,7 +1614,8 @@ country,year,protestnumber,protestNumberChange
 "Greece",2014,7,-12
 "Greece",2015,36,29
 "Greece",2016,23,-13
-"Greece",2017,1,-22
+"Greece",2017,7,-16
+"Greece",2018,2,-5
 "Guatemala",1990,1,
 "Guatemala",1991,1,0
 "Guatemala",1992,1,0
@@ -1588,7 +1643,8 @@ country,year,protestnumber,protestNumberChange
 "Guatemala",2014,1,-4
 "Guatemala",2015,21,20
 "Guatemala",2016,1,-20
-"Guatemala",2017,0,-1
+"Guatemala",2017,2,1
+"Guatemala",2018,1,-1
 "Guinea",1990,0,
 "Guinea",1991,2,2
 "Guinea",1992,0,-2
@@ -1617,6 +1673,7 @@ country,year,protestnumber,protestNumberChange
 "Guinea",2015,9,9
 "Guinea",2016,3,-6
 "Guinea",2017,1,-2
+"Guinea",2018,1,0
 "Guinea-Bissau",1990,0,
 "Guinea-Bissau",1991,0,0
 "Guinea-Bissau",1992,0,0
@@ -1645,6 +1702,7 @@ country,year,protestnumber,protestNumberChange
 "Guinea-Bissau",2015,0,0
 "Guinea-Bissau",2016,1,1
 "Guinea-Bissau",2017,2,1
+"Guinea-Bissau",2018,0,-2
 "Guyana",1990,0,
 "Guyana",1991,0,0
 "Guyana",1992,3,3
@@ -1673,6 +1731,7 @@ country,year,protestnumber,protestNumberChange
 "Guyana",2015,2,-1
 "Guyana",2016,1,-1
 "Guyana",2017,0,-1
+"Guyana",2018,0,0
 "Haiti",1990,2,
 "Haiti",1991,3,1
 "Haiti",1992,2,-1
@@ -1700,7 +1759,8 @@ country,year,protestnumber,protestNumberChange
 "Haiti",2014,9,2
 "Haiti",2015,5,-4
 "Haiti",2016,3,-2
-"Haiti",2017,0,-3
+"Haiti",2017,2,-1
+"Haiti",2018,1,-1
 "Honduras",1990,2,
 "Honduras",1991,2,0
 "Honduras",1992,3,1
@@ -1728,7 +1788,8 @@ country,year,protestnumber,protestNumberChange
 "Honduras",2014,0,-5
 "Honduras",2015,17,17
 "Honduras",2016,2,-15
-"Honduras",2017,0,-2
+"Honduras",2017,2,0
+"Honduras",2018,3,1
 "Hungary",1990,5,
 "Hungary",1991,0,-5
 "Hungary",1992,3,3
@@ -1756,7 +1817,8 @@ country,year,protestnumber,protestNumberChange
 "Hungary",2014,3,0
 "Hungary",2015,6,3
 "Hungary",2016,2,-4
-"Hungary",2017,0,-2
+"Hungary",2017,4,2
+"Hungary",2018,1,-3
 "India",1990,10,
 "India",1991,1,-9
 "India",1992,3,2
@@ -1784,7 +1846,8 @@ country,year,protestnumber,protestNumberChange
 "India",2014,14,5
 "India",2015,11,-3
 "India",2016,7,-4
-"India",2017,1,-6
+"India",2017,12,5
+"India",2018,2,-10
 "Indonesia",1990,1,
 "Indonesia",1991,2,1
 "Indonesia",1992,1,-1
@@ -1812,7 +1875,8 @@ country,year,protestnumber,protestNumberChange
 "Indonesia",2014,6,1
 "Indonesia",2015,1,-5
 "Indonesia",2016,7,6
-"Indonesia",2017,0,-7
+"Indonesia",2017,3,-4
+"Indonesia",2018,1,-2
 "Iran",1990,1,
 "Iran",1991,3,2
 "Iran",1992,3,0
@@ -1840,7 +1904,8 @@ country,year,protestnumber,protestNumberChange
 "Iran",2014,4,2
 "Iran",2015,4,0
 "Iran",2016,4,0
-"Iran",2017,2,-2
+"Iran",2017,6,2
+"Iran",2018,4,-2
 "Iraq",1990,0,
 "Iraq",1991,1,1
 "Iraq",1992,1,0
@@ -1868,7 +1933,8 @@ country,year,protestnumber,protestNumberChange
 "Iraq",2014,1,-9
 "Iraq",2015,7,6
 "Iraq",2016,6,-1
-"Iraq",2017,0,-6
+"Iraq",2017,3,-3
+"Iraq",2018,1,-2
 "Ireland",1990,0,
 "Ireland",1991,0,0
 "Ireland",1992,17,17
@@ -1896,7 +1962,8 @@ country,year,protestnumber,protestNumberChange
 "Ireland",2014,56,29
 "Ireland",2015,32,-24
 "Ireland",2016,19,-13
-"Ireland",2017,5,-14
+"Ireland",2017,6,-13
+"Ireland",2018,1,-5
 "Italy",1990,1,
 "Italy",1991,2,1
 "Italy",1992,6,4
@@ -1924,7 +1991,8 @@ country,year,protestnumber,protestNumberChange
 "Italy",2014,6,3
 "Italy",2015,0,-6
 "Italy",2016,9,9
-"Italy",2017,1,-8
+"Italy",2017,8,-1
+"Italy",2018,4,-4
 "Ivory Coast",1990,14,
 "Ivory Coast",1991,8,-6
 "Ivory Coast",1992,6,-2
@@ -1952,7 +2020,8 @@ country,year,protestnumber,protestNumberChange
 "Ivory Coast",2014,0,0
 "Ivory Coast",2015,0,0
 "Ivory Coast",2016,4,4
-"Ivory Coast",2017,6,2
+"Ivory Coast",2017,7,3
+"Ivory Coast",2018,0,-7
 "Jamaica",1990,0,
 "Jamaica",1991,2,2
 "Jamaica",1992,0,-2
@@ -1981,6 +2050,7 @@ country,year,protestnumber,protestNumberChange
 "Jamaica",2015,1,-6
 "Jamaica",2016,0,-1
 "Jamaica",2017,0,0
+"Jamaica",2018,0,0
 "Japan",1990,5,
 "Japan",1991,2,-3
 "Japan",1992,6,4
@@ -2009,6 +2079,7 @@ country,year,protestnumber,protestNumberChange
 "Japan",2015,10,8
 "Japan",2016,1,-9
 "Japan",2017,0,-1
+"Japan",2018,0,0
 "Jordan",1990,0,
 "Jordan",1991,0,0
 "Jordan",1992,0,0
@@ -2036,7 +2107,8 @@ country,year,protestnumber,protestNumberChange
 "Jordan",2014,4,2
 "Jordan",2015,2,-2
 "Jordan",2016,3,1
-"Jordan",2017,0,-3
+"Jordan",2017,1,-2
+"Jordan",2018,0,-1
 "Kazakhstan",1990,1,
 "Kazakhstan",1991,0,-1
 "Kazakhstan",1992,2,2
@@ -2065,6 +2137,7 @@ country,year,protestnumber,protestNumberChange
 "Kazakhstan",2015,0,-2
 "Kazakhstan",2016,1,1
 "Kazakhstan",2017,0,-1
+"Kazakhstan",2018,0,0
 "Kenya",1990,5,
 "Kenya",1991,2,-3
 "Kenya",1992,2,0
@@ -2092,7 +2165,8 @@ country,year,protestnumber,protestNumberChange
 "Kenya",2014,3,-18
 "Kenya",2015,143,140
 "Kenya",2016,6,-137
-"Kenya",2017,1,-5
+"Kenya",2017,11,5
+"Kenya",2018,1,-10
 "Kosovo",2008,1,
 "Kosovo",2009,1,0
 "Kosovo",2010,2,1
@@ -2102,7 +2176,8 @@ country,year,protestnumber,protestNumberChange
 "Kosovo",2014,0,-1
 "Kosovo",2015,5,5
 "Kosovo",2016,2,-3
-"Kosovo",2017,0,-2
+"Kosovo",2017,1,-1
+"Kosovo",2018,0,-1
 "Kuwait",1990,0,
 "Kuwait",1991,3,3
 "Kuwait",1992,1,-2
@@ -2131,6 +2206,7 @@ country,year,protestnumber,protestNumberChange
 "Kuwait",2015,0,-5
 "Kuwait",2016,1,1
 "Kuwait",2017,0,-1
+"Kuwait",2018,0,0
 "Kyrgyzstan",1990,1,
 "Kyrgyzstan",1991,0,-1
 "Kyrgyzstan",1992,1,1
@@ -2159,6 +2235,7 @@ country,year,protestnumber,protestNumberChange
 "Kyrgyzstan",2015,0,-2
 "Kyrgyzstan",2016,1,1
 "Kyrgyzstan",2017,0,-1
+"Kyrgyzstan",2018,0,0
 "Laos",1990,0,
 "Laos",1991,0,0
 "Laos",1992,0,0
@@ -2187,6 +2264,7 @@ country,year,protestnumber,protestNumberChange
 "Laos",2015,0,0
 "Laos",2016,0,0
 "Laos",2017,0,0
+"Laos",2018,0,0
 "Latvia",1991,0,
 "Latvia",1992,0,0
 "Latvia",1993,1,1
@@ -2213,7 +2291,8 @@ country,year,protestnumber,protestNumberChange
 "Latvia",2014,0,0
 "Latvia",2015,0,0
 "Latvia",2016,0,0
-"Latvia",2017,0,0
+"Latvia",2017,2,2
+"Latvia",2018,3,1
 "Lebanon",1990,2,
 "Lebanon",1991,0,-2
 "Lebanon",1992,4,4
@@ -2241,7 +2320,8 @@ country,year,protestnumber,protestNumberChange
 "Lebanon",2014,4,3
 "Lebanon",2015,7,3
 "Lebanon",2016,0,-7
-"Lebanon",2017,0,0
+"Lebanon",2017,1,1
+"Lebanon",2018,1,0
 "Lesotho",1990,0,
 "Lesotho",1991,0,0
 "Lesotho",1992,0,0
@@ -2270,6 +2350,7 @@ country,year,protestnumber,protestNumberChange
 "Lesotho",2015,0,0
 "Lesotho",2016,1,1
 "Lesotho",2017,0,-1
+"Lesotho",2018,0,0
 "Liberia",1990,1,
 "Liberia",1991,0,-1
 "Liberia",1992,0,0
@@ -2297,7 +2378,8 @@ country,year,protestnumber,protestNumberChange
 "Liberia",2014,3,-3
 "Liberia",2015,8,5
 "Liberia",2016,1,-7
-"Liberia",2017,1,0
+"Liberia",2017,5,4
+"Liberia",2018,1,-4
 "Libya",1990,0,
 "Libya",1991,0,0
 "Libya",1992,0,0
@@ -2326,6 +2408,7 @@ country,year,protestnumber,protestNumberChange
 "Libya",2015,3,-1
 "Libya",2016,0,-3
 "Libya",2017,0,0
+"Libya",2018,0,0
 "Lithuania",1990,1,
 "Lithuania",1991,0,-1
 "Lithuania",1992,0,0
@@ -2354,6 +2437,7 @@ country,year,protestnumber,protestNumberChange
 "Lithuania",2015,1,1
 "Lithuania",2016,0,-1
 "Lithuania",2017,0,0
+"Lithuania",2018,0,0
 "Luxembourg",1990,0,
 "Luxembourg",1991,0,0
 "Luxembourg",1992,0,0
@@ -2382,6 +2466,7 @@ country,year,protestnumber,protestNumberChange
 "Luxembourg",2015,0,0
 "Luxembourg",2016,0,0
 "Luxembourg",2017,0,0
+"Luxembourg",2018,0,0
 "Macedonia",1992,1,
 "Macedonia",1993,2,1
 "Macedonia",1994,1,-1
@@ -2407,7 +2492,8 @@ country,year,protestnumber,protestNumberChange
 "Macedonia",2014,1,-6
 "Macedonia",2015,2,1
 "Macedonia",2016,2,0
-"Macedonia",2017,2,0
+"Macedonia",2017,4,2
+"Macedonia",2018,0,-4
 "Madagascar",1990,1,
 "Madagascar",1991,17,16
 "Madagascar",1992,0,-17
@@ -2436,6 +2522,7 @@ country,year,protestnumber,protestNumberChange
 "Madagascar",2015,1,-1
 "Madagascar",2016,2,1
 "Madagascar",2017,0,-2
+"Madagascar",2018,0,0
 "Malawi",1990,1,
 "Malawi",1991,0,-1
 "Malawi",1992,3,3
@@ -2464,6 +2551,7 @@ country,year,protestnumber,protestNumberChange
 "Malawi",2015,0,-4
 "Malawi",2016,3,3
 "Malawi",2017,1,-2
+"Malawi",2018,0,-1
 "Malaysia",1990,0,
 "Malaysia",1991,0,0
 "Malaysia",1992,0,0
@@ -2491,7 +2579,8 @@ country,year,protestnumber,protestNumberChange
 "Malaysia",2014,3,1
 "Malaysia",2015,13,10
 "Malaysia",2016,16,3
-"Malaysia",2017,0,-16
+"Malaysia",2017,6,-10
+"Malaysia",2018,4,-2
 "Mali",1990,2,
 "Mali",1991,3,1
 "Mali",1992,0,-3
@@ -2520,6 +2609,7 @@ country,year,protestnumber,protestNumberChange
 "Mali",2015,0,0
 "Mali",2016,4,4
 "Mali",2017,2,-2
+"Mali",2018,0,-2
 "Mauritania",1990,0,
 "Mauritania",1991,2,2
 "Mauritania",1992,5,3
@@ -2548,6 +2638,7 @@ country,year,protestnumber,protestNumberChange
 "Mauritania",2015,2,1
 "Mauritania",2016,6,4
 "Mauritania",2017,1,-5
+"Mauritania",2018,0,-1
 "Mauritius",1990,0,
 "Mauritius",1991,0,0
 "Mauritius",1992,0,0
@@ -2576,6 +2667,7 @@ country,year,protestnumber,protestNumberChange
 "Mauritius",2015,1,1
 "Mauritius",2016,0,-1
 "Mauritius",2017,0,0
+"Mauritius",2018,0,0
 "Mexico",1990,5,
 "Mexico",1991,4,-1
 "Mexico",1992,5,1
@@ -2603,7 +2695,8 @@ country,year,protestnumber,protestNumberChange
 "Mexico",2014,15,12
 "Mexico",2015,13,-2
 "Mexico",2016,5,-8
-"Mexico",2017,2,-3
+"Mexico",2017,4,-1
+"Mexico",2018,0,-4
 "Moldova",1991,7,
 "Moldova",1992,1,-6
 "Moldova",1993,2,1
@@ -2630,7 +2723,8 @@ country,year,protestnumber,protestNumberChange
 "Moldova",2014,0,-2
 "Moldova",2015,14,14
 "Moldova",2016,16,2
-"Moldova",2017,0,-16
+"Moldova",2017,4,-12
+"Moldova",2018,1,-3
 "Mongolia",1990,12,
 "Mongolia",1991,3,-9
 "Mongolia",1992,0,-3
@@ -2659,6 +2753,7 @@ country,year,protestnumber,protestNumberChange
 "Mongolia",2015,0,0
 "Mongolia",2016,0,0
 "Mongolia",2017,1,1
+"Mongolia",2018,0,-1
 "Montenegro",2006,0,
 "Montenegro",2007,1,1
 "Montenegro",2008,1,0
@@ -2670,7 +2765,8 @@ country,year,protestnumber,protestNumberChange
 "Montenegro",2014,3,3
 "Montenegro",2015,1,-2
 "Montenegro",2016,0,-1
-"Montenegro",2017,0,0
+"Montenegro",2017,1,1
+"Montenegro",2018,0,-1
 "Morocco",1990,1,
 "Morocco",1991,1,0
 "Morocco",1992,0,-1
@@ -2698,7 +2794,8 @@ country,year,protestnumber,protestNumberChange
 "Morocco",2014,3,0
 "Morocco",2015,1,-2
 "Morocco",2016,1,0
-"Morocco",2017,0,-1
+"Morocco",2017,5,4
+"Morocco",2018,1,-4
 "Mozambique",1990,2,
 "Mozambique",1991,1,-1
 "Mozambique",1992,6,5
@@ -2726,7 +2823,8 @@ country,year,protestnumber,protestNumberChange
 "Mozambique",2014,6,-2
 "Mozambique",2015,5,-1
 "Mozambique",2016,3,-2
-"Mozambique",2017,0,-3
+"Mozambique",2017,3,0
+"Mozambique",2018,0,-3
 "Myanmar",1990,3,
 "Myanmar",1991,2,-1
 "Myanmar",1992,0,-2
@@ -2754,7 +2852,8 @@ country,year,protestnumber,protestNumberChange
 "Myanmar",2014,16,15
 "Myanmar",2015,4,-12
 "Myanmar",2016,5,1
-"Myanmar",2017,0,-5
+"Myanmar",2017,1,-4
+"Myanmar",2018,2,1
 "Namibia",1990,1,
 "Namibia",1991,2,1
 "Namibia",1992,0,-2
@@ -2782,7 +2881,8 @@ country,year,protestnumber,protestNumberChange
 "Namibia",2014,11,-2
 "Namibia",2015,13,2
 "Namibia",2016,21,8
-"Namibia",2017,2,-19
+"Namibia",2017,10,-11
+"Namibia",2018,1,-9
 "Nepal",1990,20,
 "Nepal",1991,2,-18
 "Nepal",1992,5,3
@@ -2811,6 +2911,7 @@ country,year,protestnumber,protestNumberChange
 "Nepal",2015,18,17
 "Nepal",2016,3,-15
 "Nepal",2017,0,-3
+"Nepal",2018,0,0
 "Netherlands",1990,1,
 "Netherlands",1991,0,-1
 "Netherlands",1992,0,0
@@ -2838,7 +2939,8 @@ country,year,protestnumber,protestNumberChange
 "Netherlands",2014,0,0
 "Netherlands",2015,0,0
 "Netherlands",2016,0,0
-"Netherlands",2017,1,1
+"Netherlands",2017,2,2
+"Netherlands",2018,1,-1
 "Nicaragua",1990,2,
 "Nicaragua",1991,0,-2
 "Nicaragua",1992,5,5
@@ -2867,6 +2969,7 @@ country,year,protestnumber,protestNumberChange
 "Nicaragua",2015,3,1
 "Nicaragua",2016,2,-1
 "Nicaragua",2017,0,-2
+"Nicaragua",2018,0,0
 "Niger",1990,4,
 "Niger",1991,1,-3
 "Niger",1992,3,2
@@ -2894,7 +2997,8 @@ country,year,protestnumber,protestNumberChange
 "Niger",2014,0,0
 "Niger",2015,0,0
 "Niger",2016,1,1
-"Niger",2017,0,-1
+"Niger",2017,1,0
+"Niger",2018,0,-1
 "Nigeria",1990,0,
 "Nigeria",1991,0,0
 "Nigeria",1992,2,2
@@ -2922,7 +3026,8 @@ country,year,protestnumber,protestNumberChange
 "Nigeria",2014,2,2
 "Nigeria",2015,2,0
 "Nigeria",2016,58,56
-"Nigeria",2017,8,-50
+"Nigeria",2017,34,-24
+"Nigeria",2018,12,-22
 "North Korea",1990,0,
 "North Korea",1991,1,1
 "North Korea",1992,1,0
@@ -2951,6 +3056,7 @@ country,year,protestnumber,protestNumberChange
 "North Korea",2015,0,0
 "North Korea",2016,0,0
 "North Korea",2017,0,0
+"North Korea",2018,0,0
 "Norway",1990,0,
 "Norway",1991,0,0
 "Norway",1992,1,1
@@ -2979,6 +3085,7 @@ country,year,protestnumber,protestNumberChange
 "Norway",2015,1,1
 "Norway",2016,0,-1
 "Norway",2017,0,0
+"Norway",2018,0,0
 "Oman",1990,0,
 "Oman",1991,0,0
 "Oman",1992,0,0
@@ -3007,6 +3114,7 @@ country,year,protestnumber,protestNumberChange
 "Oman",2015,0,0
 "Oman",2016,0,0
 "Oman",2017,0,0
+"Oman",2018,1,1
 "Pakistan",1990,5,
 "Pakistan",1991,3,-2
 "Pakistan",1992,5,2
@@ -3034,7 +3142,8 @@ country,year,protestnumber,protestNumberChange
 "Pakistan",2014,7,-1
 "Pakistan",2015,3,-4
 "Pakistan",2016,2,-1
-"Pakistan",2017,2,0
+"Pakistan",2017,9,7
+"Pakistan",2018,3,-6
 "Panama",1990,1,
 "Panama",1991,1,0
 "Panama",1992,3,2
@@ -3063,6 +3172,7 @@ country,year,protestnumber,protestNumberChange
 "Panama",2015,1,0
 "Panama",2016,0,-1
 "Panama",2017,0,0
+"Panama",2018,0,0
 "Papua New Guinea",1990,3,
 "Papua New Guinea",1991,2,-1
 "Papua New Guinea",1992,0,-2
@@ -3090,7 +3200,8 @@ country,year,protestnumber,protestNumberChange
 "Papua New Guinea",2014,1,0
 "Papua New Guinea",2015,0,-1
 "Papua New Guinea",2016,1,1
-"Papua New Guinea",2017,0,-1
+"Papua New Guinea",2017,3,2
+"Papua New Guinea",2018,0,-3
 "Paraguay",1990,0,
 "Paraguay",1991,1,1
 "Paraguay",1992,0,-1
@@ -3118,7 +3229,8 @@ country,year,protestnumber,protestNumberChange
 "Paraguay",2014,1,-2
 "Paraguay",2015,3,2
 "Paraguay",2016,1,-2
-"Paraguay",2017,0,-1
+"Paraguay",2017,2,1
+"Paraguay",2018,0,-2
 "Peru",1990,7,
 "Peru",1991,7,0
 "Peru",1992,3,-4
@@ -3146,7 +3258,8 @@ country,year,protestnumber,protestNumberChange
 "Peru",2014,4,3
 "Peru",2015,1,-3
 "Peru",2016,3,2
-"Peru",2017,1,-2
+"Peru",2017,4,1
+"Peru",2018,0,-4
 "Philippines",1990,5,
 "Philippines",1991,3,-2
 "Philippines",1992,1,-2
@@ -3174,7 +3287,8 @@ country,year,protestnumber,protestNumberChange
 "Philippines",2014,7,4
 "Philippines",2015,3,-4
 "Philippines",2016,2,-1
-"Philippines",2017,1,-1
+"Philippines",2017,6,4
+"Philippines",2018,0,-6
 "Poland",1990,4,
 "Poland",1991,2,-2
 "Poland",1992,3,1
@@ -3202,7 +3316,8 @@ country,year,protestnumber,protestNumberChange
 "Poland",2014,1,-2
 "Poland",2015,3,2
 "Poland",2016,9,6
-"Poland",2017,0,-9
+"Poland",2017,6,-3
+"Poland",2018,3,-3
 "Portugal",1990,0,
 "Portugal",1991,1,1
 "Portugal",1992,0,-1
@@ -3231,6 +3346,7 @@ country,year,protestnumber,protestNumberChange
 "Portugal",2015,0,0
 "Portugal",2016,1,1
 "Portugal",2017,0,-1
+"Portugal",2018,0,0
 "Qatar",1990,0,
 "Qatar",1991,0,0
 "Qatar",1992,0,0
@@ -3259,6 +3375,7 @@ country,year,protestnumber,protestNumberChange
 "Qatar",2015,0,0
 "Qatar",2016,0,0
 "Qatar",2017,0,0
+"Qatar",2018,0,0
 "Romania",1990,63,
 "Romania",1991,14,-49
 "Romania",1992,0,-14
@@ -3286,7 +3403,8 @@ country,year,protestnumber,protestNumberChange
 "Romania",2014,2,-6
 "Romania",2015,4,2
 "Romania",2016,1,-3
-"Romania",2017,29,28
+"Romania",2017,33,32
+"Romania",2018,2,-31
 "Russia",1992,11,
 "Russia",1993,7,-4
 "Russia",1994,5,-2
@@ -3312,7 +3430,8 @@ country,year,protestnumber,protestNumberChange
 "Russia",2014,10,2
 "Russia",2015,5,-5
 "Russia",2016,7,2
-"Russia",2017,3,-4
+"Russia",2017,14,7
+"Russia",2018,3,-11
 "Rwanda",1990,0,
 "Rwanda",1991,1,1
 "Rwanda",1992,3,2
@@ -3341,6 +3460,7 @@ country,year,protestnumber,protestNumberChange
 "Rwanda",2015,0,-2
 "Rwanda",2016,0,0
 "Rwanda",2017,0,0
+"Rwanda",2018,0,0
 "Saudi Arabia",1990,0,
 "Saudi Arabia",1991,0,0
 "Saudi Arabia",1992,0,0
@@ -3368,7 +3488,8 @@ country,year,protestnumber,protestNumberChange
 "Saudi Arabia",2014,0,-2
 "Saudi Arabia",2015,0,0
 "Saudi Arabia",2016,1,1
-"Saudi Arabia",2017,0,-1
+"Saudi Arabia",2017,1,0
+"Saudi Arabia",2018,0,-1
 "Senegal",1990,0,
 "Senegal",1991,0,0
 "Senegal",1992,0,0
@@ -3397,6 +3518,7 @@ country,year,protestnumber,protestNumberChange
 "Senegal",2015,0,-2
 "Senegal",2016,0,0
 "Senegal",2017,0,0
+"Senegal",2018,0,0
 "Serbia",2006,0,
 "Serbia",2007,1,1
 "Serbia",2008,1,0
@@ -3408,7 +3530,8 @@ country,year,protestnumber,protestNumberChange
 "Serbia",2014,1,1
 "Serbia",2015,0,-1
 "Serbia",2016,0,0
-"Serbia",2017,0,0
+"Serbia",2017,3,3
+"Serbia",2018,0,-3
 "Serbia and Montenegro",2003,2,
 "Serbia and Montenegro",2004,0,-2
 "Serbia and Montenegro",2005,0,0
@@ -3440,7 +3563,8 @@ country,year,protestnumber,protestNumberChange
 "Sierra Leone",2014,0,-1
 "Sierra Leone",2015,2,2
 "Sierra Leone",2016,7,5
-"Sierra Leone",2017,2,-5
+"Sierra Leone",2017,3,-4
+"Sierra Leone",2018,0,-3
 "Singapore",1990,0,
 "Singapore",1991,0,0
 "Singapore",1992,0,0
@@ -3468,7 +3592,8 @@ country,year,protestnumber,protestNumberChange
 "Singapore",2014,5,5
 "Singapore",2015,3,-2
 "Singapore",2016,0,-3
-"Singapore",2017,1,1
+"Singapore",2017,2,2
+"Singapore",2018,1,-1
 "Slovak Republic",1993,0,
 "Slovak Republic",1994,2,2
 "Slovak Republic",1995,3,1
@@ -3493,7 +3618,8 @@ country,year,protestnumber,protestNumberChange
 "Slovak Republic",2014,1,1
 "Slovak Republic",2015,2,1
 "Slovak Republic",2016,0,-2
-"Slovak Republic",2017,0,0
+"Slovak Republic",2017,1,1
+"Slovak Republic",2018,4,3
 "Slovenia",1991,0,
 "Slovenia",1992,0,0
 "Slovenia",1993,0,0
@@ -3521,6 +3647,7 @@ country,year,protestnumber,protestNumberChange
 "Slovenia",2015,1,1
 "Slovenia",2016,0,-1
 "Slovenia",2017,0,0
+"Slovenia",2018,1,1
 "Somalia",1990,3,
 "Somalia",1991,0,-3
 "Somalia",1992,0,0
@@ -3549,6 +3676,7 @@ country,year,protestnumber,protestNumberChange
 "Somalia",2015,0,0
 "Somalia",2016,0,0
 "Somalia",2017,0,0
+"Somalia",2018,0,0
 "South Africa",1990,25,
 "South Africa",1991,13,-12
 "South Africa",1992,19,6
@@ -3576,7 +3704,8 @@ country,year,protestnumber,protestNumberChange
 "South Africa",2014,4,-1
 "South Africa",2015,8,4
 "South Africa",2016,10,2
-"South Africa",2017,1,-9
+"South Africa",2017,7,-3
+"South Africa",2018,0,-7
 "South Korea",1990,25,
 "South Korea",1991,18,-7
 "South Korea",1992,10,-8
@@ -3604,7 +3733,8 @@ country,year,protestnumber,protestNumberChange
 "South Korea",2014,4,4
 "South Korea",2015,11,7
 "South Korea",2016,3,-8
-"South Korea",2017,2,-1
+"South Korea",2017,3,0
+"South Korea",2018,3,0
 "South Sudan",2011,0,
 "South Sudan",2012,1,1
 "South Sudan",2013,0,-1
@@ -3612,6 +3742,7 @@ country,year,protestnumber,protestNumberChange
 "South Sudan",2015,0,0
 "South Sudan",2016,0,0
 "South Sudan",2017,0,0
+"South Sudan",2018,0,0
 "Spain",1990,4,
 "Spain",1991,3,-1
 "Spain",1992,5,2
@@ -3639,7 +3770,8 @@ country,year,protestnumber,protestNumberChange
 "Spain",2014,9,4
 "Spain",2015,1,-8
 "Spain",2016,8,7
-"Spain",2017,3,-5
+"Spain",2017,24,16
+"Spain",2018,7,-17
 "Sri Lanka",1990,0,
 "Sri Lanka",1991,0,0
 "Sri Lanka",1992,4,4
@@ -3668,6 +3800,7 @@ country,year,protestnumber,protestNumberChange
 "Sri Lanka",2015,3,-20
 "Sri Lanka",2016,1,-2
 "Sri Lanka",2017,0,-1
+"Sri Lanka",2018,0,0
 "Sudan",1990,0,
 "Sudan",1991,0,0
 "Sudan",1992,0,0
@@ -3696,6 +3829,7 @@ country,year,protestnumber,protestNumberChange
 "Sudan",2015,0,-8
 "Sudan",2016,4,4
 "Sudan",2017,0,-4
+"Sudan",2018,1,1
 "Suriname",1990,4,
 "Suriname",1991,0,-4
 "Suriname",1992,0,0
@@ -3723,7 +3857,8 @@ country,year,protestnumber,protestNumberChange
 "Suriname",2014,0,0
 "Suriname",2015,0,0
 "Suriname",2016,0,0
-"Suriname",2017,0,0
+"Suriname",2017,1,1
+"Suriname",2018,0,-1
 "Swaziland",1990,1,
 "Swaziland",1991,0,-1
 "Swaziland",1992,0,0
@@ -3752,6 +3887,7 @@ country,year,protestnumber,protestNumberChange
 "Swaziland",2015,0,0
 "Swaziland",2016,0,0
 "Swaziland",2017,0,0
+"Swaziland",2018,0,0
 "Sweden",1990,0,
 "Sweden",1991,0,0
 "Sweden",1992,1,1
@@ -3779,7 +3915,8 @@ country,year,protestnumber,protestNumberChange
 "Sweden",2014,0,-1
 "Sweden",2015,0,0
 "Sweden",2016,2,2
-"Sweden",2017,0,-2
+"Sweden",2017,2,0
+"Sweden",2018,0,-2
 "Switzerland",1990,1,
 "Switzerland",1991,1,0
 "Switzerland",1992,0,-1
@@ -3808,6 +3945,7 @@ country,year,protestnumber,protestNumberChange
 "Switzerland",2015,0,-1
 "Switzerland",2016,0,0
 "Switzerland",2017,0,0
+"Switzerland",2018,0,0
 "Syria",1990,0,
 "Syria",1991,1,1
 "Syria",1992,0,-1
@@ -3835,7 +3973,8 @@ country,year,protestnumber,protestNumberChange
 "Syria",2014,4,4
 "Syria",2015,1,-3
 "Syria",2016,2,1
-"Syria",2017,0,-2
+"Syria",2017,1,-1
+"Syria",2018,0,-1
 "Taiwan",1990,11,
 "Taiwan",1991,6,-5
 "Taiwan",1992,9,3
@@ -3863,7 +4002,8 @@ country,year,protestnumber,protestNumberChange
 "Taiwan",2014,4,3
 "Taiwan",2015,6,2
 "Taiwan",2016,3,-3
-"Taiwan",2017,0,-3
+"Taiwan",2017,2,-1
+"Taiwan",2018,1,-1
 "Tajikistan",1990,2,
 "Tajikistan",1991,1,-1
 "Tajikistan",1992,3,2
@@ -3892,6 +4032,7 @@ country,year,protestnumber,protestNumberChange
 "Tajikistan",2015,0,-1
 "Tajikistan",2016,0,0
 "Tajikistan",2017,0,0
+"Tajikistan",2018,0,0
 "Tanzania",1990,0,
 "Tanzania",1991,0,0
 "Tanzania",1992,1,1
@@ -3919,7 +4060,8 @@ country,year,protestnumber,protestNumberChange
 "Tanzania",2014,0,0
 "Tanzania",2015,0,0
 "Tanzania",2016,0,0
-"Tanzania",2017,0,0
+"Tanzania",2017,2,2
+"Tanzania",2018,0,-2
 "Thailand",1990,0,
 "Thailand",1991,1,1
 "Thailand",1992,4,3
@@ -3947,7 +4089,8 @@ country,year,protestnumber,protestNumberChange
 "Thailand",2014,16,-7
 "Thailand",2015,16,0
 "Thailand",2016,4,-12
-"Thailand",2017,2,-2
+"Thailand",2017,5,1
+"Thailand",2018,7,2
 "Timor Leste",2002,1,
 "Timor Leste",2003,0,-1
 "Timor Leste",2004,2,2
@@ -3964,6 +4107,7 @@ country,year,protestnumber,protestNumberChange
 "Timor Leste",2015,0,0
 "Timor Leste",2016,0,0
 "Timor Leste",2017,0,0
+"Timor Leste",2018,0,0
 "Togo",1990,1,
 "Togo",1991,10,9
 "Togo",1992,5,-5
@@ -3991,7 +4135,8 @@ country,year,protestnumber,protestNumberChange
 "Togo",2014,2,-3
 "Togo",2015,7,5
 "Togo",2016,0,-7
-"Togo",2017,3,3
+"Togo",2017,5,5
+"Togo",2018,0,-5
 "Tunisia",1990,0,
 "Tunisia",1991,0,0
 "Tunisia",1992,0,0
@@ -4019,7 +4164,8 @@ country,year,protestnumber,protestNumberChange
 "Tunisia",2014,2,-3
 "Tunisia",2015,1,-1
 "Tunisia",2016,2,1
-"Tunisia",2017,1,-1
+"Tunisia",2017,5,3
+"Tunisia",2018,2,-3
 "Turkey",1990,1,
 "Turkey",1991,2,1
 "Turkey",1992,1,-1
@@ -4047,7 +4193,8 @@ country,year,protestnumber,protestNumberChange
 "Turkey",2014,21,13
 "Turkey",2015,15,-6
 "Turkey",2016,8,-7
-"Turkey",2017,0,-8
+"Turkey",2017,6,-2
+"Turkey",2018,0,-6
 "Turkmenistan",1990,0,
 "Turkmenistan",1991,0,0
 "Turkmenistan",1992,0,0
@@ -4076,6 +4223,7 @@ country,year,protestnumber,protestNumberChange
 "Turkmenistan",2015,0,-1
 "Turkmenistan",2016,0,0
 "Turkmenistan",2017,0,0
+"Turkmenistan",2018,0,0
 "USSR",1990,45,
 "USSR",1991,15,-30
 "Uganda",1990,2,
@@ -4105,7 +4253,8 @@ country,year,protestnumber,protestNumberChange
 "Uganda",2014,2,1
 "Uganda",2015,0,-2
 "Uganda",2016,6,6
-"Uganda",2017,0,-6
+"Uganda",2017,1,-5
+"Uganda",2018,0,-1
 "Ukraine",1991,0,
 "Ukraine",1992,1,1
 "Ukraine",1993,3,2
@@ -4132,7 +4281,8 @@ country,year,protestnumber,protestNumberChange
 "Ukraine",2014,91,88
 "Ukraine",2015,3,-88
 "Ukraine",2016,1,-2
-"Ukraine",2017,0,-1
+"Ukraine",2017,3,2
+"Ukraine",2018,0,-3
 "United Arab Emirate",1990,0,
 "United Arab Emirate",1991,0,0
 "United Arab Emirate",1992,0,0
@@ -4161,6 +4311,7 @@ country,year,protestnumber,protestNumberChange
 "United Arab Emirate",2015,0,0
 "United Arab Emirate",2016,0,0
 "United Arab Emirate",2017,0,0
+"United Arab Emirate",2018,0,0
 "United Kingdom",1990,36,
 "United Kingdom",1991,11,-25
 "United Kingdom",1992,21,10
@@ -4188,7 +4339,8 @@ country,year,protestnumber,protestNumberChange
 "United Kingdom",2014,13,-7
 "United Kingdom",2015,20,7
 "United Kingdom",2016,35,15
-"United Kingdom",2017,12,-23
+"United Kingdom",2017,21,-14
+"United Kingdom",2018,10,-11
 "Uruguay",1990,1,
 "Uruguay",1991,4,3
 "Uruguay",1992,6,2
@@ -4217,6 +4369,7 @@ country,year,protestnumber,protestNumberChange
 "Uruguay",2015,0,0
 "Uruguay",2016,1,1
 "Uruguay",2017,0,-1
+"Uruguay",2018,0,0
 "Uzbekistan",1990,2,
 "Uzbekistan",1991,0,-2
 "Uzbekistan",1992,1,1
@@ -4245,6 +4398,7 @@ country,year,protestnumber,protestNumberChange
 "Uzbekistan",2015,0,0
 "Uzbekistan",2016,0,0
 "Uzbekistan",2017,0,0
+"Uzbekistan",2018,0,0
 "Venezuela",1990,9,
 "Venezuela",1991,12,3
 "Venezuela",1992,26,14
@@ -4272,7 +4426,8 @@ country,year,protestnumber,protestNumberChange
 "Venezuela",2014,16,9
 "Venezuela",2015,8,-8
 "Venezuela",2016,10,2
-"Venezuela",2017,1,-9
+"Venezuela",2017,22,12
+"Venezuela",2018,0,-22
 "Vietnam",1990,0,
 "Vietnam",1991,0,0
 "Vietnam",1992,0,0
@@ -4300,7 +4455,8 @@ country,year,protestnumber,protestNumberChange
 "Vietnam",2014,0,0
 "Vietnam",2015,1,1
 "Vietnam",2016,1,0
-"Vietnam",2017,0,-1
+"Vietnam",2017,1,0
+"Vietnam",2018,0,-1
 "Yemen",1990,3,
 "Yemen",1991,0,-3
 "Yemen",1992,2,2
@@ -4329,6 +4485,7 @@ country,year,protestnumber,protestNumberChange
 "Yemen",2015,11,-22
 "Yemen",2016,1,-10
 "Yemen",2017,0,-1
+"Yemen",2018,0,0
 "Yugoslavia",1990,25,
 "Yugoslavia",1991,10,-15
 "Yugoslavia",1992,11,1
@@ -4369,7 +4526,8 @@ country,year,protestnumber,protestNumberChange
 "Zambia",2014,9,5
 "Zambia",2015,0,-9
 "Zambia",2016,6,6
-"Zambia",2017,0,-6
+"Zambia",2017,1,-5
+"Zambia",2018,1,0
 "Zimbabwe",1990,4,
 "Zimbabwe",1991,2,-2
 "Zimbabwe",1992,2,0
@@ -4397,4 +4555,5 @@ country,year,protestnumber,protestNumberChange
 "Zimbabwe",2014,4,4
 "Zimbabwe",2015,3,-1
 "Zimbabwe",2016,17,14
-"Zimbabwe",2017,0,-17
+"Zimbabwe",2017,5,-12
+"Zimbabwe",2018,0,-5
